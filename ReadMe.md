@@ -1,4 +1,4 @@
-## Daily Small Projects - Day 3 of 50 (Rotating Navigation) 
+## Daily Small Projects - Day 8 of 50 (Rotating Navigation) 
 
 **USED:** HTML, CSS, Javascript
 
